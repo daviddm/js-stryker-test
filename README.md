@@ -1,0 +1,1 @@
+# js-stryker-test
